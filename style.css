@@ -1,0 +1,23 @@
+
+
+.red-text {
+    color: red;
+}
+
+#main {
+    font-weight: bold;
+}
+h2 {
+    border: 10px inset #0a0a79; 
+    font-size:50px; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: green;
+    border-radius: 20px;
+}
+h3 {
+     
+    font-size: 21px; 
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: rgb(0, 0, 0);
+    
+}
